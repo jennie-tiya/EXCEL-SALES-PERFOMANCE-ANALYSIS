@@ -1,9 +1,6 @@
-Got it — I’ll turn the content from your image into a **polished, GitHub-ready README.md**.
-Here’s the cleaned-up version:
-
 ---
 
-# Sales Performance Analysis (2015–2017)
+# Sales Performance Analysis
 
 ## 1. Regional Revenue Distribution (2015–2017)
 
