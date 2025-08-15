@@ -1,0 +1,69 @@
+# Sales Performance Analysis (2015–2017)
+
+## 1. Regional Revenue Distribution (2015–2017)
+- **2015**: West region generated **46%** of total revenue.  
+- **2016**: West led again with **45%**.  
+- **2017**: West stayed on top with **44%**.  
+
+**Insight:** The West contributed an average of **45%** of total revenue across all three years, consistently outperforming the South and East.
+
+---
+
+## 2. Sales Representative Performance
+- **2015:** Julie was top sales rep (**$6K**).  
+- **2016:** Mike led (**$104K**).  
+- **Overall:** Mike achieved the highest total revenue (~**$205K**).  
+- Nicole was least productive, despite selling mostly in the West and handling top-selling products.
+
+**Insight:** Mike and Julie are standout performers. Nicole may require extra support despite working with favorable regions/products.
+
+---
+
+## 3. Regional Strengths by Representative
+- Mike earned most of his revenue from the **East** (2016 & 2017).  
+- Julie consistently performed best in the **West**.  
+- Nicole’s sales were also mostly from the West.  
+
+**Insight:** Matching the right rep with the right region can significantly impact performance.
+
+---
+
+## 4. Product Performance
+- **Top products:** Quad, Bellen, Doublers — strong across all regions, commonly sold by Mike and Julie.  
+- **Lower-performing products:** Sunshine, Aspen.  
+
+**Insight:** Product success is driven by both market demand and sales rep effectiveness.
+
+---
+
+## 5. Revenue Growth Trends
+- Revenue grew **1678.58%** from 2015 to 2016.  
+- Revenue declined slightly by **-1.19%** in 2017.  
+- **Q4** contributed the most revenue in both 2016 and 2017.  
+
+**Insight:** The business peaked in 2016, with Q4 as a strong seasonal revenue driver.
+
+---
+
+## 6. Strategic Recommendations
+
+### Rep-Based Strategies
+- Allow Mike to keep focusing on the East and train others using his method.  
+- Keep Julie in the West, where she thrives.  
+- Provide regular marketing training for all sales reps.  
+
+### Regional Strategy
+- Pair low-performing reps in the West (e.g., Nicole) with Julie for mentorship and coaching.  
+- Improve East region sales by reducing over-dependence on Mike and empowering other reps.  
+
+### Product Strategy
+- Assign top reps to weaker products like Sunshine and Aspen to boost performance.  
+- Keep promoting Quad, Bellen, and Doublers while diversifying sales.  
+
+### Quarterly Focus
+- Reuse Q4 2016 strategies to improve other quarters and avoid seasonal dips.
+
+---
+
+## Conclusion
+Top reps, strategic region alignment, and smart product placement are critical to revenue performance. Implementing these insights can help sustain growth and improve underperforming areas.
