@@ -84,6 +84,3 @@ Here’s the cleaned-up version:
 This analysis highlights that top reps, strategic region alignment, and smart product placement are critical to revenue performance. Implementing these insights can help the business sustain growth and improve underperforming areas.
 
 ---
-
-If you want, I can now **merge this into your first sales analysis README** so both analyses are in a single repo with separate sections. That way your GitHub portfolio looks consistent and well-structured.
-Do you want me to do that?
