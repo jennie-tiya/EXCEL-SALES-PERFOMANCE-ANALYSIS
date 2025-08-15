@@ -2,7 +2,7 @@
 
 # Sales Performance Analysis
 
-## 1. Regional Revenue Distribution (2015–2017)
+## 1. Regional Revenue Distribution (2015–2017).
 
 * **2015**: West region generated **46%** of total revenue.
 * **2016**: West led again with **45%**.
